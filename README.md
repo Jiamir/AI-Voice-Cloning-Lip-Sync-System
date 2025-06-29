@@ -15,3 +15,6 @@ Pipeline:
 - Input: Face video (with clear lips) + synthesized audio (from Tortoise)
 - Model: Pre-trained Wav2Lip model
 - Output: Talking-head video where lip movement matches the audio.
+
+### **Team Members**
+Developed by [Jaweria Amir](https://github.com/Jiamir), [Farwa Attaria](https://github.com/farwaattaria), [Mah Jabeen](https://github.com/mahjabeenhere)
