@@ -1,4 +1,4 @@
-# 🗣️ Wav2Lip – Model Overview & Checkpoints
+# 🗣️ Wav2Lip – Model Overview & Logic
 
 ### What is Wav2Lip?
 
@@ -31,7 +31,7 @@ The model is trained using:
 
 ---
 
-### Why Wav2Lip
+### Why Wav2Lip?
 
 - Accurate and expressive lip-sync, even on silent or mismatched video
 - Compatible with TTS-generated audio (e.g., Tortoise)
