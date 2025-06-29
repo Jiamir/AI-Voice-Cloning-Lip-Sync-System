@@ -116,4 +116,4 @@ IPython.display.Audio(final_audio_path)
 # STEP 7: Download result
 # -----------------------------------------------
 from google.colab import files
-files.download('results/result_voice.mp4')
+files.download('results/result_output.mp4')
